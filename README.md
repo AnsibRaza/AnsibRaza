@@ -16,4 +16,4 @@ QA consultant specializing in test automation. I build Playwright and Appium aut
 QA Consultant / Senior SQA Engineer at OZ Digital Consulting, Lahore (2023 to present). See my [LinkedIn profile](https://www.linkedin.com/in/ansibraza/) for the full history.
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/ansibraza/)
+[Website](https://ansibraza.github.io/) | [LinkedIn](https://www.linkedin.com/in/ansibraza/)
